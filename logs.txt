@@ -1,0 +1,221 @@
+C:\Users\krama\eclipse-workspace\fascist_on_chair\target>java -jar fascist_on_chair-0.0.1-SNAPSHOT-jar-with-dependencies.jar
+Enter count of players:
+5
+Music will be stopped in 824 milliseconds...
+Music is playing....waiting for stop music and start game.....
+Music is stopped, can start game ====================================
+        Fascist 1: is sitting on the chair for 3 sec....!!!!!
+        Fascist 1: leaves chair
+Music is playing....waiting for stop music and start game.....
+Music will be stopped in 104 milliseconds...
+Music is stopped, can start game ====================================
+        Fascist 1: exit game
+        Fascist 0: is sitting on the chair for 3 sec....!!!!!
+        Fascist 0: leaves chair
+Music is playing....waiting for stop music and start game.....
+Music will be stopped in 931 milliseconds...
+Music is stopped, can start game ====================================
+        Fascist 0: exit game
+        Fascist 2: is sitting on the chair for 3 sec....!!!!!
+        Fascist 2: leaves chair
+Music is playing....waiting for stop music and start game.....
+Music will be stopped in 627 milliseconds...
+Music is stopped, can start game ====================================
+        Fascist 2: exit game
+        Fascist 3: is sitting on the chair for 3 sec....!!!!!
+        Fascist 3: leaves chair
+Music is playing....waiting for stop music and start game.....
+Music will be stopped in 300 milliseconds...
+Music is stopped, can start game ====================================
+        Fascist 3: exit game
+        Fascist 4: is sitting on the chair for 3 sec....!!!!!
+        Fascist 4: leaves chair
+Music is playing....waiting for stop music and start game.....
+Music will be stopped in 984 milliseconds...
+Music is stopped, can start game ====================================
+        Fascist 4: exit game
+=====================================================================
+Game is OVER!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
