@@ -44,7 +44,6 @@ public class Game {
 		// be sure that all threads are finished
 		for (Thread player : fascistThreads) {
 			if (player.isAlive()) {
-				System.out.println("be sure that thread "+ player.getName() + " is finishd: call player.join()");
 				player.join();
 			}
 		}
